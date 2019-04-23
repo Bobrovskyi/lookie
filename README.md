@@ -1,0 +1,1 @@
+# Themes for prestashop 1.6 for lookie store
